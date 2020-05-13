@@ -13,7 +13,7 @@ This project was built using Laravel 7, so you need at least PHP 7.2 and Compose
 ## Deploy to Server
 Since this project uses sqlite, you don't need to set up any database. 
 
-Set up project and upload all files in root project to your server which support php >7.2.
+Set up project and upload all files in root project to your server which support php > 7.2
 
 ## Database Structure
 Since it uses sqlite database, you may use the database in other purpose such as building android app.
