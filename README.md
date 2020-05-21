@@ -1,6 +1,16 @@
 # Quran API
 Quran API support Bahasa Indonesia and English Translation. 
 
+## Live Demo
+[QuranApi.idn.sch.id](https://quranapi.idn.sch.id) (without audio)
+
+## Data Source
+  * [Alquran.cloud](https://github.com/islamic-network/alquran.cloud) (License [GNU GPL V.3](https://github.com/islamic-network/alquran.cloud/blob/master/LICENSE))
+  * [Quran Kemenag Indonesia](https://quran.kemenag.go.id)
+  
+## Font
+You may download the Arabic font from [Lajnah Kemenag Indonesia](https://lajnah.kemenag.go.id/unduhan)
+
 ## Set Up and Run Locally.
 This project was built using Laravel 7, so you need at least PHP 7.2 and Composer installed on your machine.
 
