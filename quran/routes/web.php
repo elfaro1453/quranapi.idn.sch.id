@@ -20,7 +20,8 @@ Route::get('/', function () {
 });
 
 Route::get('surah', function () {
-    return Surah::all();
+    $data = Surah::all();
+    return compact('data');
 });
 
 Route::get('surah/{id}', function ($id) {
